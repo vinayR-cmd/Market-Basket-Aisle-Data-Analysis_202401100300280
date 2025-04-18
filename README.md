@@ -59,4 +59,9 @@ Matplotlib: https://matplotlib.org/
 Seaborn: https://seaborn.pydata.org/
 
 Pandas: https://pandas.pydata.org/
+Results: 
+![Screenshot 2025-04-18 145108](https://github.com/user-attachments/assets/1a319f3d-698d-4ee8-bf69-164ebb7dcc81)
+![Screenshot 2025-04-18 145124](https://github.com/user-attachments/assets/a98cf530-e482-4a17-a0c1-7f3315617b4a)
+
+
 
